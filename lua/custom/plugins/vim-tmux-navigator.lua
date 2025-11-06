@@ -1,0 +1,1 @@
+/home/lhuith/dotfiles/nvim/vim-tmux-navigator.lua

@@ -1,0 +1,1 @@
+/home/lhuith/dotfiles/nvim/rainbow-bracket.lua
